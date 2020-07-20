@@ -10,3 +10,4 @@
   console.log(sum);
   console.log('CALCULATIONS 3 DONE')
 })();
+
